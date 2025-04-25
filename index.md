@@ -1,4 +1,6 @@
+# Header Title
 
+![Header Image](OIP.jfif)
 ---
 # Welcome to My Blog!
 
